@@ -1,0 +1,29 @@
+{
+    "ownerNumber": ["6285857292852@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ 𝓓𝓮𝓿𝔂𝓼𝓽𝔂𝓵𝓮ོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/yogaaeslurr",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "𝓓𝓮𝓿𝔂𝓼𝓽𝔂𝓵𝓮ོ ",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "N7zwOUZKT5u2lVt",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
